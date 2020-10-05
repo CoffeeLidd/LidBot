@@ -1,0 +1,1120 @@
+2020-10-01 16:30:45 | [INFO]    | Discordia 2.8.4
+2020-10-01 16:30:45 | [INFO]    | Connecting to Discord...
+2020-10-01 16:30:45 | [INFO]    | Authenticated as LidBot#9617
+2020-10-01 16:30:45 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-01 16:30:46 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-01 16:30:46 | [INFO]    | Shard 0 : Received HELLO
+2020-10-01 16:30:46 | [INFO]    | Shard 0 : Received READY
+2020-10-01 16:32:43 | [INFO]    | Shard 0 : Disconnected
+2020-10-01 16:32:43 | [INFO]    | Shard 0 : Reconnecting after 999 ms...
+2020-10-01 16:32:44 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2020-10-01 16:32:44 | [INFO]    | Shard 0 : Reconnecting after 2050 ms...
+2020-10-01 16:32:46 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2020-10-01 16:32:46 | [INFO]    | Shard 0 : Reconnecting after 3635 ms...
+2020-10-01 16:32:50 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2020-10-01 16:32:50 | [INFO]    | Shard 0 : Reconnecting after 7302 ms...
+2020-10-01 16:32:58 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-01 16:32:58 | [INFO]    | Shard 0 : Received HELLO
+2020-10-01 16:32:58 | [INFO]    | Shard 0 : Received RESUMED
+2020-10-01 16:51:44 | [INFO]    | Discordia 2.8.4
+2020-10-01 16:51:44 | [INFO]    | Connecting to Discord...
+2020-10-01 16:51:45 | [INFO]    | Authenticated as LidBot#9617
+2020-10-01 16:51:45 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-01 16:51:45 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-01 16:51:45 | [INFO]    | Shard 0 : Received HELLO
+2020-10-01 16:51:45 | [INFO]    | Shard 0 : Received READY
+2020-10-01 16:56:39 | [INFO]    | Discordia 2.8.4
+2020-10-01 16:56:39 | [INFO]    | Connecting to Discord...
+2020-10-01 16:56:39 | [INFO]    | Authenticated as LidBot#9617
+2020-10-01 16:56:39 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-01 16:56:39 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-01 16:56:39 | [INFO]    | Shard 0 : Received HELLO
+2020-10-01 16:56:40 | [INFO]    | Shard 0 : Received READY
+2020-10-01 16:58:32 | [INFO]    | Discordia 2.8.4
+2020-10-01 16:58:32 | [INFO]    | Connecting to Discord...
+2020-10-01 16:58:32 | [INFO]    | Authenticated as LidBot#9617
+2020-10-01 16:58:32 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-01 16:58:32 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-01 16:58:32 | [INFO]    | Shard 0 : Received HELLO
+2020-10-01 16:58:32 | [INFO]    | Shard 0 : Received READY
+2020-10-01 16:59:02 | [INFO]    | Discordia 2.8.4
+2020-10-01 16:59:02 | [INFO]    | Connecting to Discord...
+2020-10-01 16:59:03 | [INFO]    | Authenticated as LidBot#9617
+2020-10-01 16:59:03 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-01 16:59:03 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-01 16:59:03 | [INFO]    | Shard 0 : Received HELLO
+2020-10-01 16:59:03 | [INFO]    | Shard 0 : Received READY
+2020-10-01 17:12:50 | [INFO]    | Discordia 2.8.4
+2020-10-01 17:12:50 | [INFO]    | Connecting to Discord...
+2020-10-01 17:12:50 | [INFO]    | Authenticated as LidBot#9617
+2020-10-01 17:12:50 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-01 17:12:51 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-01 17:12:51 | [INFO]    | Shard 0 : Received HELLO
+2020-10-01 17:12:51 | [INFO]    | Shard 0 : Received READY
+2020-10-01 17:13:46 | [INFO]    | Discordia 2.8.4
+2020-10-01 17:13:46 | [INFO]    | Connecting to Discord...
+2020-10-01 17:13:47 | [INFO]    | Authenticated as LidBot#9617
+2020-10-01 17:13:47 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-01 17:13:47 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-01 17:13:47 | [INFO]    | Shard 0 : Received HELLO
+2020-10-01 17:13:47 | [INFO]    | Shard 0 : Received READY
+2020-10-01 17:14:36 | [INFO]    | Discordia 2.8.4
+2020-10-01 17:14:36 | [INFO]    | Connecting to Discord...
+2020-10-01 17:14:36 | [INFO]    | Authenticated as LidBot#9617
+2020-10-01 17:14:36 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-01 17:14:37 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-01 17:14:37 | [INFO]    | Shard 0 : Received HELLO
+2020-10-01 17:14:37 | [INFO]    | Shard 0 : Received READY
+2020-10-01 17:15:25 | [INFO]    | Discordia 2.8.4
+2020-10-01 17:15:25 | [INFO]    | Connecting to Discord...
+2020-10-01 17:15:25 | [INFO]    | Authenticated as LidBot#9617
+2020-10-01 17:15:25 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-01 17:15:26 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-01 17:15:26 | [INFO]    | Shard 0 : Received HELLO
+2020-10-01 17:15:26 | [INFO]    | Shard 0 : Received READY
+2020-10-01 17:17:33 | [INFO]    | Discordia 2.8.4
+2020-10-01 17:17:33 | [INFO]    | Connecting to Discord...
+2020-10-01 17:17:33 | [INFO]    | Authenticated as LidBot#9617
+2020-10-01 17:17:33 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-01 17:17:33 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-01 17:17:33 | [INFO]    | Shard 0 : Received HELLO
+2020-10-01 17:17:34 | [INFO]    | Shard 0 : Received READY
+2020-10-01 17:25:30 | [INFO]    | Discordia 2.8.4
+2020-10-01 17:25:30 | [INFO]    | Connecting to Discord...
+2020-10-01 17:25:30 | [INFO]    | Authenticated as LidBot#9617
+2020-10-01 17:25:30 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-01 17:25:31 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-01 17:25:31 | [INFO]    | Shard 0 : Received HELLO
+2020-10-01 17:25:31 | [INFO]    | Shard 0 : Received READY
+2020-10-01 18:17:25 | [INFO]    | Discordia 2.8.4
+2020-10-01 18:17:25 | [INFO]    | Connecting to Discord...
+2020-10-01 18:17:25 | [INFO]    | Authenticated as LidBot#9617
+2020-10-01 18:17:26 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-01 18:17:26 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-01 18:17:26 | [INFO]    | Shard 0 : Received HELLO
+2020-10-01 18:17:26 | [INFO]    | Shard 0 : Received READY
+2020-10-01 18:18:43 | [INFO]    | Discordia 2.8.4
+2020-10-01 18:18:43 | [INFO]    | Connecting to Discord...
+2020-10-01 18:18:43 | [INFO]    | Authenticated as LidBot#9617
+2020-10-01 18:18:43 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-01 18:18:43 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-01 18:18:43 | [INFO]    | Shard 0 : Received HELLO
+2020-10-01 18:18:44 | [INFO]    | Shard 0 : Received READY
+2020-10-01 18:36:29 | [INFO]    | Discordia 2.8.4
+2020-10-01 18:36:29 | [INFO]    | Connecting to Discord...
+2020-10-01 18:36:29 | [INFO]    | Authenticated as LidBot#9617
+2020-10-01 18:36:29 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-01 18:36:29 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-01 18:36:29 | [INFO]    | Shard 0 : Received HELLO
+2020-10-01 18:36:30 | [INFO]    | Shard 0 : Received READY
+2020-10-01 18:39:46 | [INFO]    | Discordia 2.8.4
+2020-10-01 18:39:46 | [INFO]    | Connecting to Discord...
+2020-10-01 18:39:46 | [INFO]    | Authenticated as LidBot#9617
+2020-10-01 18:39:46 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-01 18:39:47 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-01 18:39:47 | [INFO]    | Shard 0 : Received HELLO
+2020-10-01 18:39:47 | [INFO]    | Shard 0 : Received READY
+2020-10-01 18:39:59 | [INFO]    | Discordia 2.8.4
+2020-10-01 18:39:59 | [INFO]    | Connecting to Discord...
+2020-10-01 18:40:00 | [INFO]    | Authenticated as LidBot#9617
+2020-10-01 18:40:00 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-01 18:40:00 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-01 18:40:00 | [INFO]    | Shard 0 : Received HELLO
+2020-10-01 18:40:00 | [INFO]    | Shard 0 : Received READY
+2020-10-01 18:42:09 | [INFO]    | Discordia 2.8.4
+2020-10-01 18:42:09 | [INFO]    | Connecting to Discord...
+2020-10-01 18:42:09 | [INFO]    | Authenticated as LidBot#9617
+2020-10-01 18:42:09 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-01 18:42:09 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-01 18:42:09 | [INFO]    | Shard 0 : Received HELLO
+2020-10-01 18:42:09 | [INFO]    | Shard 0 : Received READY
+2020-10-01 18:43:31 | [INFO]    | Discordia 2.8.4
+2020-10-01 18:43:31 | [INFO]    | Connecting to Discord...
+2020-10-01 18:43:31 | [INFO]    | Authenticated as LidBot#9617
+2020-10-01 18:43:31 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-01 18:43:31 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-01 18:43:31 | [INFO]    | Shard 0 : Received HELLO
+2020-10-01 18:43:32 | [INFO]    | Shard 0 : Received READY
+2020-10-01 18:45:33 | [INFO]    | Discordia 2.8.4
+2020-10-01 18:45:33 | [INFO]    | Connecting to Discord...
+2020-10-01 18:45:45 | [INFO]    | Discordia 2.8.4
+2020-10-01 18:45:45 | [INFO]    | Connecting to Discord...
+2020-10-01 18:45:51 | [ERROR]   | Could not authenticate, check token: C:/Users/Miles Thran/Desktop/LidBot/deps/coro-http.lua:74: ECONNABORTED
+2020-10-01 18:46:11 | [INFO]    | Discordia 2.8.4
+2020-10-01 18:46:11 | [INFO]    | Connecting to Discord...
+2020-10-01 18:46:11 | [INFO]    | Authenticated as LidBot#9617
+2020-10-01 18:46:11 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-01 18:46:11 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-01 18:46:11 | [INFO]    | Shard 0 : Received HELLO
+2020-10-01 18:46:12 | [INFO]    | Shard 0 : Received READY
+2020-10-01 18:52:24 | [INFO]    | Discordia 2.8.4
+2020-10-01 18:52:24 | [INFO]    | Connecting to Discord...
+2020-10-01 18:52:24 | [INFO]    | Authenticated as LidBot#9617
+2020-10-01 18:52:24 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-01 18:52:25 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-01 18:52:25 | [INFO]    | Shard 0 : Received HELLO
+2020-10-01 18:52:25 | [INFO]    | Shard 0 : Received READY
+2020-10-01 19:37:46 | [INFO]    | Discordia 2.8.4
+2020-10-01 19:37:46 | [INFO]    | Connecting to Discord...
+2020-10-01 19:37:46 | [INFO]    | Authenticated as LidBot#9617
+2020-10-01 19:37:47 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-01 19:37:47 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-01 19:37:47 | [INFO]    | Shard 0 : Received HELLO
+2020-10-01 19:37:47 | [INFO]    | Shard 0 : Received READY
+2020-10-02 10:49:06 | [INFO]    | Discordia 2.8.4
+2020-10-02 10:49:06 | [INFO]    | Connecting to Discord...
+2020-10-02 10:49:07 | [INFO]    | Authenticated as LidBot#9617
+2020-10-02 10:49:07 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-02 10:49:07 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-02 10:49:07 | [INFO]    | Shard 0 : Received HELLO
+2020-10-02 10:49:07 | [INFO]    | Shard 0 : Received READY
+2020-10-02 10:50:30 | [INFO]    | Discordia 2.8.4
+2020-10-02 10:50:30 | [INFO]    | Connecting to Discord...
+2020-10-02 10:50:31 | [INFO]    | Authenticated as LidBot#9617
+2020-10-02 10:50:31 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-02 10:50:31 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-02 10:50:31 | [INFO]    | Shard 0 : Received HELLO
+2020-10-02 10:50:31 | [INFO]    | Shard 0 : Received READY
+2020-10-02 10:55:33 | [INFO]    | Discordia 2.8.4
+2020-10-02 10:55:33 | [INFO]    | Connecting to Discord...
+2020-10-02 10:55:34 | [INFO]    | Authenticated as LidBot#9617
+2020-10-02 10:55:34 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-02 10:55:34 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-02 10:55:34 | [INFO]    | Shard 0 : Received HELLO
+2020-10-02 10:55:34 | [INFO]    | Shard 0 : Received READY
+2020-10-02 10:56:34 | [INFO]    | Discordia 2.8.4
+2020-10-02 10:56:34 | [INFO]    | Connecting to Discord...
+2020-10-02 10:56:35 | [INFO]    | Authenticated as LidBot#9617
+2020-10-02 10:56:35 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-02 10:56:35 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-02 10:56:35 | [INFO]    | Shard 0 : Received HELLO
+2020-10-02 10:56:35 | [INFO]    | Shard 0 : Received READY
+2020-10-02 10:58:12 | [INFO]    | Discordia 2.8.4
+2020-10-02 10:58:12 | [INFO]    | Connecting to Discord...
+2020-10-02 10:58:13 | [INFO]    | Authenticated as LidBot#9617
+2020-10-02 10:58:13 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-02 10:58:13 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-02 10:58:13 | [INFO]    | Shard 0 : Received HELLO
+2020-10-02 10:58:13 | [INFO]    | Shard 0 : Received READY
+2020-10-02 11:00:14 | [INFO]    | Discordia 2.8.4
+2020-10-02 11:00:14 | [INFO]    | Connecting to Discord...
+2020-10-02 11:00:15 | [INFO]    | Authenticated as LidBot#9617
+2020-10-02 11:00:15 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-02 11:00:15 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-02 11:00:15 | [INFO]    | Shard 0 : Received HELLO
+2020-10-02 11:00:16 | [INFO]    | Shard 0 : Received READY
+2020-10-02 11:09:04 | [INFO]    | Discordia 2.8.4
+2020-10-02 11:09:04 | [INFO]    | Connecting to Discord...
+2020-10-02 11:09:04 | [INFO]    | Authenticated as LidBot#9617
+2020-10-02 11:09:04 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-02 11:09:05 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-02 11:09:05 | [INFO]    | Shard 0 : Received HELLO
+2020-10-02 11:09:05 | [INFO]    | Shard 0 : Received READY
+2020-10-02 11:10:49 | [INFO]    | Discordia 2.8.4
+2020-10-02 11:10:49 | [INFO]    | Connecting to Discord...
+2020-10-02 11:10:49 | [INFO]    | Authenticated as LidBot#9617
+2020-10-02 11:10:49 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-02 11:10:49 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-02 11:10:49 | [INFO]    | Shard 0 : Received HELLO
+2020-10-02 11:10:49 | [INFO]    | Shard 0 : Received READY
+2020-10-02 11:11:00 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/channels/761386385160011809/messages
+2020-10-02 11:12:25 | [INFO]    | Discordia 2.8.4
+2020-10-02 11:12:25 | [INFO]    | Connecting to Discord...
+2020-10-02 11:12:26 | [INFO]    | Authenticated as LidBot#9617
+2020-10-02 11:12:26 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-02 11:12:26 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-02 11:12:26 | [INFO]    | Shard 0 : Received HELLO
+2020-10-02 11:12:26 | [INFO]    | Shard 0 : Received READY
+2020-10-02 11:12:31 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/channels/761386385160011809/messages
+2020-10-02 11:12:32 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/channels/761386385160011809/messages
+2020-10-02 11:12:32 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/channels/761386385160011809/messages
+2020-10-02 11:13:18 | [INFO]    | Discordia 2.8.4
+2020-10-02 11:13:18 | [INFO]    | Connecting to Discord...
+2020-10-02 11:13:18 | [INFO]    | Authenticated as LidBot#9617
+2020-10-02 11:13:18 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-02 11:13:19 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-02 11:13:19 | [INFO]    | Shard 0 : Received HELLO
+2020-10-02 11:13:19 | [INFO]    | Shard 0 : Received READY
+2020-10-02 11:13:23 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/channels/761386385160011809/messages
+2020-10-02 11:17:04 | [INFO]    | Discordia 2.8.4
+2020-10-02 11:17:04 | [INFO]    | Connecting to Discord...
+2020-10-02 11:17:04 | [INFO]    | Authenticated as LidBot#9617
+2020-10-02 11:17:04 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-02 11:17:05 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-02 11:17:05 | [INFO]    | Shard 0 : Received HELLO
+2020-10-02 11:17:05 | [INFO]    | Shard 0 : Received READY
+2020-10-02 11:17:08 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/channels/761386385160011809/messages
+2020-10-02 11:18:32 | [INFO]    | Discordia 2.8.4
+2020-10-02 11:18:32 | [INFO]    | Connecting to Discord...
+2020-10-02 11:18:33 | [INFO]    | Authenticated as LidBot#9617
+2020-10-02 11:18:33 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-02 11:18:33 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-02 11:18:33 | [INFO]    | Shard 0 : Received HELLO
+2020-10-02 11:18:33 | [INFO]    | Shard 0 : Received READY
+2020-10-02 11:19:58 | [INFO]    | Discordia 2.8.4
+2020-10-02 11:19:58 | [INFO]    | Connecting to Discord...
+2020-10-02 11:19:59 | [INFO]    | Authenticated as LidBot#9617
+2020-10-02 11:19:59 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-02 11:19:59 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-02 11:19:59 | [INFO]    | Shard 0 : Received HELLO
+2020-10-02 11:19:59 | [INFO]    | Shard 0 : Received READY
+2020-10-02 11:20:06 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/channels/761386385160011809/messages
+2020-10-02 11:22:09 | [INFO]    | Discordia 2.8.4
+2020-10-02 11:22:09 | [INFO]    | Connecting to Discord...
+2020-10-02 11:22:10 | [INFO]    | Authenticated as LidBot#9617
+2020-10-02 11:22:10 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-02 11:22:10 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-02 11:22:10 | [INFO]    | Shard 0 : Received HELLO
+2020-10-02 11:22:10 | [INFO]    | Shard 0 : Received READY
+2020-10-02 11:22:14 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/channels/761386385160011809/messages
+2020-10-02 11:25:33 | [INFO]    | Discordia 2.8.4
+2020-10-02 11:25:33 | [INFO]    | Connecting to Discord...
+2020-10-02 11:25:33 | [INFO]    | Authenticated as LidBot#9617
+2020-10-02 11:25:33 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-02 11:25:33 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-02 11:25:33 | [INFO]    | Shard 0 : Received HELLO
+2020-10-02 11:25:33 | [INFO]    | Shard 0 : Received READY
+2020-10-02 11:25:38 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/channels/761386385160011809/messages
+2020-10-02 11:27:05 | [INFO]    | Discordia 2.8.4
+2020-10-02 11:27:05 | [INFO]    | Connecting to Discord...
+2020-10-02 11:27:05 | [INFO]    | Authenticated as LidBot#9617
+2020-10-02 11:27:05 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-02 11:27:05 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-02 11:27:05 | [INFO]    | Shard 0 : Received HELLO
+2020-10-02 11:27:06 | [INFO]    | Shard 0 : Received READY
+2020-10-02 11:27:09 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/channels/761386385160011809/messages
+2020-10-02 11:27:35 | [INFO]    | Discordia 2.8.4
+2020-10-02 11:27:35 | [INFO]    | Connecting to Discord...
+2020-10-02 11:27:35 | [INFO]    | Authenticated as LidBot#9617
+2020-10-02 11:27:35 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-02 11:27:35 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-02 11:27:35 | [INFO]    | Shard 0 : Received HELLO
+2020-10-02 11:27:35 | [INFO]    | Shard 0 : Received READY
+2020-10-02 11:28:42 | [INFO]    | Discordia 2.8.4
+2020-10-02 11:28:42 | [INFO]    | Connecting to Discord...
+2020-10-02 11:28:43 | [INFO]    | Authenticated as LidBot#9617
+2020-10-02 11:28:43 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-02 11:28:43 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-02 11:28:43 | [INFO]    | Shard 0 : Received HELLO
+2020-10-02 11:28:43 | [INFO]    | Shard 0 : Received READY
+2020-10-02 11:29:39 | [INFO]    | Discordia 2.8.4
+2020-10-02 11:29:39 | [INFO]    | Connecting to Discord...
+2020-10-02 11:29:40 | [INFO]    | Authenticated as LidBot#9617
+2020-10-02 11:29:40 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-02 11:29:40 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-02 11:29:40 | [INFO]    | Shard 0 : Received HELLO
+2020-10-02 11:29:40 | [INFO]    | Shard 0 : Received READY
+2020-10-02 11:29:44 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/channels/761386385160011809/messages
+2020-10-02 11:31:32 | [INFO]    | Discordia 2.8.4
+2020-10-02 11:31:32 | [INFO]    | Connecting to Discord...
+2020-10-02 11:31:32 | [INFO]    | Authenticated as LidBot#9617
+2020-10-02 11:31:32 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-02 11:31:32 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-02 11:31:32 | [INFO]    | Shard 0 : Received HELLO
+2020-10-02 11:31:33 | [INFO]    | Shard 0 : Received READY
+2020-10-02 11:32:04 | [INFO]    | Discordia 2.8.4
+2020-10-02 11:32:04 | [INFO]    | Connecting to Discord...
+2020-10-02 11:32:04 | [INFO]    | Authenticated as LidBot#9617
+2020-10-02 11:32:04 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-02 11:32:05 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-02 11:32:05 | [INFO]    | Shard 0 : Received HELLO
+2020-10-02 11:32:05 | [INFO]    | Shard 0 : Received READY
+2020-10-02 11:35:43 | [INFO]    | Discordia 2.8.4
+2020-10-02 11:35:43 | [INFO]    | Connecting to Discord...
+2020-10-02 11:35:44 | [INFO]    | Authenticated as LidBot#9617
+2020-10-02 11:35:44 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-02 11:35:44 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-02 11:35:44 | [INFO]    | Shard 0 : Received HELLO
+2020-10-02 11:35:44 | [INFO]    | Shard 0 : Received READY
+2020-10-02 11:36:55 | [INFO]    | Discordia 2.8.4
+2020-10-02 11:36:55 | [INFO]    | Connecting to Discord...
+2020-10-02 11:36:55 | [INFO]    | Authenticated as LidBot#9617
+2020-10-02 11:36:55 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-02 11:36:55 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-02 11:36:55 | [INFO]    | Shard 0 : Received HELLO
+2020-10-02 11:36:56 | [INFO]    | Shard 0 : Received READY
+2020-10-02 11:37:46 | [INFO]    | Discordia 2.8.4
+2020-10-02 11:37:46 | [INFO]    | Connecting to Discord...
+2020-10-02 11:37:46 | [INFO]    | Authenticated as LidBot#9617
+2020-10-02 11:37:46 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-02 11:37:46 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-02 11:37:46 | [INFO]    | Shard 0 : Received HELLO
+2020-10-02 11:37:47 | [INFO]    | Shard 0 : Received READY
+2020-10-02 11:38:33 | [INFO]    | Discordia 2.8.4
+2020-10-02 11:38:33 | [INFO]    | Connecting to Discord...
+2020-10-02 11:38:33 | [INFO]    | Authenticated as LidBot#9617
+2020-10-02 11:38:33 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-02 11:38:33 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-02 11:38:33 | [INFO]    | Shard 0 : Received HELLO
+2020-10-02 11:38:33 | [INFO]    | Shard 0 : Received READY
+2020-10-02 11:39:48 | [INFO]    | Discordia 2.8.4
+2020-10-02 11:39:48 | [INFO]    | Connecting to Discord...
+2020-10-02 11:39:48 | [INFO]    | Authenticated as LidBot#9617
+2020-10-02 11:39:48 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-02 11:39:49 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-02 11:39:49 | [INFO]    | Shard 0 : Received HELLO
+2020-10-02 11:39:49 | [INFO]    | Shard 0 : Received READY
+2020-10-02 11:40:43 | [INFO]    | Discordia 2.8.4
+2020-10-02 11:40:43 | [INFO]    | Connecting to Discord...
+2020-10-02 11:40:43 | [INFO]    | Authenticated as LidBot#9617
+2020-10-02 11:40:43 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-02 11:40:43 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-02 11:40:43 | [INFO]    | Shard 0 : Received HELLO
+2020-10-02 11:40:44 | [INFO]    | Shard 0 : Received READY
+2020-10-02 11:42:28 | [INFO]    | Discordia 2.8.4
+2020-10-02 11:42:28 | [INFO]    | Connecting to Discord...
+2020-10-02 11:42:28 | [INFO]    | Authenticated as LidBot#9617
+2020-10-02 11:42:28 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-02 11:42:29 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-02 11:42:29 | [INFO]    | Shard 0 : Received HELLO
+2020-10-02 11:42:29 | [INFO]    | Shard 0 : Received READY
+2020-10-02 11:42:38 | [INFO]    | Discordia 2.8.4
+2020-10-02 11:42:38 | [INFO]    | Connecting to Discord...
+2020-10-02 11:42:39 | [INFO]    | Authenticated as LidBot#9617
+2020-10-02 11:42:39 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-02 11:42:39 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-02 11:42:39 | [INFO]    | Shard 0 : Received HELLO
+2020-10-02 11:42:39 | [INFO]    | Shard 0 : Received READY
+2020-10-02 11:42:56 | [INFO]    | Discordia 2.8.4
+2020-10-02 11:42:56 | [INFO]    | Connecting to Discord...
+2020-10-02 11:42:57 | [INFO]    | Authenticated as LidBot#9617
+2020-10-02 11:42:57 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-02 11:42:57 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-02 11:42:57 | [INFO]    | Shard 0 : Received HELLO
+2020-10-02 11:42:57 | [INFO]    | Shard 0 : Received READY
+2020-10-02 11:57:53 | [INFO]    | Discordia 2.8.4
+2020-10-02 11:57:53 | [INFO]    | Connecting to Discord...
+2020-10-02 11:57:54 | [INFO]    | Authenticated as LidBot#9617
+2020-10-02 11:57:54 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-02 11:57:54 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-02 11:57:54 | [INFO]    | Shard 0 : Received HELLO
+2020-10-02 11:57:54 | [INFO]    | Shard 0 : Received READY
+2020-10-02 11:58:39 | [INFO]    | Discordia 2.8.4
+2020-10-02 11:58:39 | [INFO]    | Connecting to Discord...
+2020-10-02 11:58:39 | [INFO]    | Authenticated as LidBot#9617
+2020-10-02 11:58:39 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-02 11:58:39 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-02 11:58:39 | [INFO]    | Shard 0 : Received HELLO
+2020-10-02 11:58:40 | [INFO]    | Shard 0 : Received READY
+2020-10-02 14:25:32 | [INFO]    | Discordia 2.8.4
+2020-10-02 14:25:32 | [INFO]    | Connecting to Discord...
+2020-10-02 14:25:32 | [INFO]    | Authenticated as LidBot#9617
+2020-10-02 14:25:32 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-02 14:25:33 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-02 14:25:33 | [INFO]    | Shard 0 : Received HELLO
+2020-10-02 14:25:33 | [INFO]    | Shard 0 : Received READY
+2020-10-02 14:26:19 | [INFO]    | Discordia 2.8.4
+2020-10-02 14:26:19 | [INFO]    | Connecting to Discord...
+2020-10-02 14:26:19 | [INFO]    | Authenticated as LidBot#9617
+2020-10-02 14:26:19 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-02 14:26:19 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-02 14:26:19 | [INFO]    | Shard 0 : Received HELLO
+2020-10-02 14:26:19 | [INFO]    | Shard 0 : Received READY
+2020-10-02 14:26:59 | [INFO]    | Discordia 2.8.4
+2020-10-02 14:26:59 | [INFO]    | Connecting to Discord...
+2020-10-02 14:26:59 | [INFO]    | Authenticated as LidBot#9617
+2020-10-02 14:26:59 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-02 14:26:59 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-02 14:26:59 | [INFO]    | Shard 0 : Received HELLO
+2020-10-02 14:26:59 | [INFO]    | Shard 0 : Received READY
+2020-10-02 14:27:41 | [INFO]    | Discordia 2.8.4
+2020-10-02 14:27:41 | [INFO]    | Connecting to Discord...
+2020-10-02 14:27:41 | [INFO]    | Authenticated as LidBot#9617
+2020-10-02 14:27:41 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-02 14:27:41 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-02 14:27:41 | [INFO]    | Shard 0 : Received HELLO
+2020-10-02 14:27:41 | [INFO]    | Shard 0 : Received READY
+2020-10-02 14:28:41 | [INFO]    | Discordia 2.8.4
+2020-10-02 14:28:41 | [INFO]    | Connecting to Discord...
+2020-10-02 14:28:42 | [INFO]    | Authenticated as LidBot#9617
+2020-10-02 14:28:42 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-02 14:28:42 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-02 14:28:42 | [INFO]    | Shard 0 : Received HELLO
+2020-10-02 14:28:42 | [INFO]    | Shard 0 : Received READY
+2020-10-02 14:29:18 | [INFO]    | Discordia 2.8.4
+2020-10-02 14:29:18 | [INFO]    | Connecting to Discord...
+2020-10-02 14:29:18 | [INFO]    | Authenticated as LidBot#9617
+2020-10-02 14:29:18 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-02 14:29:18 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-02 14:29:18 | [INFO]    | Shard 0 : Received HELLO
+2020-10-02 14:29:18 | [INFO]    | Shard 0 : Received READY
+2020-10-02 14:29:53 | [INFO]    | Discordia 2.8.4
+2020-10-02 14:29:53 | [INFO]    | Connecting to Discord...
+2020-10-02 14:29:53 | [INFO]    | Authenticated as LidBot#9617
+2020-10-02 14:29:53 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-02 14:29:53 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-02 14:29:53 | [INFO]    | Shard 0 : Received HELLO
+2020-10-02 14:29:54 | [INFO]    | Shard 0 : Received READY
+2020-10-02 14:31:39 | [INFO]    | Discordia 2.8.4
+2020-10-02 14:31:39 | [INFO]    | Connecting to Discord...
+2020-10-02 14:31:39 | [INFO]    | Authenticated as LidBot#9617
+2020-10-02 14:31:39 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-02 14:31:40 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-02 14:31:40 | [INFO]    | Shard 0 : Received HELLO
+2020-10-02 14:31:40 | [INFO]    | Shard 0 : Received READY
+2020-10-02 14:32:30 | [INFO]    | Discordia 2.8.4
+2020-10-02 14:32:30 | [INFO]    | Connecting to Discord...
+2020-10-02 14:32:30 | [INFO]    | Authenticated as LidBot#9617
+2020-10-02 14:32:30 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-02 14:32:30 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-02 14:32:30 | [INFO]    | Shard 0 : Received HELLO
+2020-10-02 14:32:30 | [INFO]    | Shard 0 : Received READY
+2020-10-02 14:33:02 | [INFO]    | Discordia 2.8.4
+2020-10-02 14:33:02 | [INFO]    | Connecting to Discord...
+2020-10-02 14:33:02 | [INFO]    | Authenticated as LidBot#9617
+2020-10-02 14:33:02 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-02 14:33:02 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-02 14:33:02 | [INFO]    | Shard 0 : Received HELLO
+2020-10-02 14:33:02 | [INFO]    | Shard 0 : Received READY
+2020-10-02 14:33:41 | [INFO]    | Discordia 2.8.4
+2020-10-02 14:33:41 | [INFO]    | Connecting to Discord...
+2020-10-02 14:33:41 | [INFO]    | Authenticated as LidBot#9617
+2020-10-02 14:33:41 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-02 14:33:41 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-02 14:33:41 | [INFO]    | Shard 0 : Received HELLO
+2020-10-02 14:33:41 | [INFO]    | Shard 0 : Received READY
+2020-10-02 14:34:10 | [INFO]    | Discordia 2.8.4
+2020-10-02 14:34:10 | [INFO]    | Connecting to Discord...
+2020-10-02 14:34:10 | [INFO]    | Authenticated as LidBot#9617
+2020-10-02 14:34:10 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-02 14:34:11 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-02 14:34:11 | [INFO]    | Shard 0 : Received HELLO
+2020-10-02 14:34:11 | [INFO]    | Shard 0 : Received READY
+2020-10-02 14:35:27 | [INFO]    | Discordia 2.8.4
+2020-10-02 14:35:27 | [INFO]    | Connecting to Discord...
+2020-10-02 14:35:27 | [INFO]    | Authenticated as LidBot#9617
+2020-10-02 14:35:27 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-02 14:35:27 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-02 14:35:27 | [INFO]    | Shard 0 : Received HELLO
+2020-10-02 14:35:27 | [INFO]    | Shard 0 : Received READY
+2020-10-02 14:36:23 | [INFO]    | Discordia 2.8.4
+2020-10-02 14:36:23 | [INFO]    | Connecting to Discord...
+2020-10-02 14:36:23 | [INFO]    | Authenticated as LidBot#9617
+2020-10-02 14:36:23 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-02 14:36:23 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-02 14:36:23 | [INFO]    | Shard 0 : Received HELLO
+2020-10-02 14:36:23 | [INFO]    | Shard 0 : Received READY
+2020-10-02 14:36:52 | [INFO]    | Discordia 2.8.4
+2020-10-02 14:36:52 | [INFO]    | Connecting to Discord...
+2020-10-02 14:36:52 | [INFO]    | Authenticated as LidBot#9617
+2020-10-02 14:36:52 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-02 14:36:52 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-02 14:36:52 | [INFO]    | Shard 0 : Received HELLO
+2020-10-02 14:36:52 | [INFO]    | Shard 0 : Received READY
+2020-10-02 14:37:51 | [INFO]    | Discordia 2.8.4
+2020-10-02 14:37:51 | [INFO]    | Connecting to Discord...
+2020-10-02 14:37:51 | [INFO]    | Authenticated as LidBot#9617
+2020-10-02 14:37:51 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-02 14:37:51 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-02 14:37:51 | [INFO]    | Shard 0 : Received HELLO
+2020-10-02 14:37:51 | [INFO]    | Shard 0 : Received READY
+2020-10-02 15:25:08 | [INFO]    | Discordia 2.8.4
+2020-10-02 15:25:08 | [INFO]    | Connecting to Discord...
+2020-10-02 15:25:08 | [INFO]    | Authenticated as LidBot#9617
+2020-10-02 15:25:08 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-02 15:25:09 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-02 15:25:09 | [INFO]    | Shard 0 : Received HELLO
+2020-10-02 15:25:09 | [INFO]    | Shard 0 : Received READY
+2020-10-02 15:26:08 | [INFO]    | Discordia 2.8.4
+2020-10-02 15:26:08 | [INFO]    | Connecting to Discord...
+2020-10-02 15:26:08 | [INFO]    | Authenticated as LidBot#9617
+2020-10-02 15:26:08 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-02 15:26:08 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-02 15:26:08 | [INFO]    | Shard 0 : Received HELLO
+2020-10-02 15:26:08 | [INFO]    | Shard 0 : Received READY
+2020-10-02 15:27:00 | [INFO]    | Discordia 2.8.4
+2020-10-02 15:27:00 | [INFO]    | Connecting to Discord...
+2020-10-02 15:27:01 | [INFO]    | Authenticated as LidBot#9617
+2020-10-02 15:27:01 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-02 15:27:01 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-02 15:27:01 | [INFO]    | Shard 0 : Received HELLO
+2020-10-02 15:27:01 | [INFO]    | Shard 0 : Received READY
+2020-10-02 15:27:46 | [INFO]    | Discordia 2.8.4
+2020-10-02 15:27:46 | [INFO]    | Connecting to Discord...
+2020-10-02 15:27:47 | [INFO]    | Authenticated as LidBot#9617
+2020-10-02 15:27:47 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-02 15:27:47 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-02 15:27:47 | [INFO]    | Shard 0 : Received HELLO
+2020-10-02 15:27:47 | [INFO]    | Shard 0 : Received READY
+2020-10-02 15:29:06 | [INFO]    | Discordia 2.8.4
+2020-10-02 15:29:06 | [INFO]    | Connecting to Discord...
+2020-10-02 15:29:06 | [INFO]    | Authenticated as LidBot#9617
+2020-10-02 15:29:06 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-02 15:29:06 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-02 15:29:06 | [INFO]    | Shard 0 : Received HELLO
+2020-10-02 15:29:06 | [INFO]    | Shard 0 : Received READY
+2020-10-02 15:29:36 | [INFO]    | Discordia 2.8.4
+2020-10-02 15:29:36 | [INFO]    | Connecting to Discord...
+2020-10-02 15:29:37 | [INFO]    | Authenticated as LidBot#9617
+2020-10-02 15:29:37 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-02 15:29:37 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-02 15:29:37 | [INFO]    | Shard 0 : Received HELLO
+2020-10-02 15:29:37 | [INFO]    | Shard 0 : Received READY
+2020-10-02 15:30:05 | [INFO]    | Discordia 2.8.4
+2020-10-02 15:30:05 | [INFO]    | Connecting to Discord...
+2020-10-02 15:30:06 | [INFO]    | Authenticated as LidBot#9617
+2020-10-02 15:30:06 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-02 15:30:06 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-02 15:30:06 | [INFO]    | Shard 0 : Received HELLO
+2020-10-02 15:30:06 | [INFO]    | Shard 0 : Received READY
+2020-10-02 15:31:41 | [INFO]    | Discordia 2.8.4
+2020-10-02 15:31:41 | [INFO]    | Connecting to Discord...
+2020-10-02 15:31:41 | [INFO]    | Authenticated as LidBot#9617
+2020-10-02 15:31:41 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-02 15:31:41 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-02 15:31:41 | [INFO]    | Shard 0 : Received HELLO
+2020-10-02 15:31:42 | [INFO]    | Shard 0 : Received READY
+2020-10-02 15:32:16 | [INFO]    | Discordia 2.8.4
+2020-10-02 15:32:16 | [INFO]    | Connecting to Discord...
+2020-10-02 15:32:16 | [INFO]    | Authenticated as LidBot#9617
+2020-10-02 15:32:16 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-02 15:32:16 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-02 15:32:16 | [INFO]    | Shard 0 : Received HELLO
+2020-10-02 15:32:16 | [INFO]    | Shard 0 : Received READY
+2020-10-02 15:33:00 | [INFO]    | Discordia 2.8.4
+2020-10-02 15:33:00 | [INFO]    | Connecting to Discord...
+2020-10-02 15:33:01 | [INFO]    | Authenticated as LidBot#9617
+2020-10-02 15:33:01 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-02 15:33:01 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-02 15:33:01 | [INFO]    | Shard 0 : Received HELLO
+2020-10-02 15:33:01 | [INFO]    | Shard 0 : Received READY
+2020-10-02 15:33:36 | [INFO]    | Discordia 2.8.4
+2020-10-02 15:33:36 | [INFO]    | Connecting to Discord...
+2020-10-02 15:33:36 | [INFO]    | Authenticated as LidBot#9617
+2020-10-02 15:33:36 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-02 15:33:36 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-02 15:33:36 | [INFO]    | Shard 0 : Received HELLO
+2020-10-02 15:33:36 | [INFO]    | Shard 0 : Received READY
+2020-10-02 15:37:05 | [INFO]    | Discordia 2.8.4
+2020-10-02 15:37:05 | [INFO]    | Connecting to Discord...
+2020-10-02 15:37:05 | [INFO]    | Authenticated as LidBot#9617
+2020-10-02 15:37:05 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-02 15:37:05 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-02 15:37:05 | [INFO]    | Shard 0 : Received HELLO
+2020-10-02 15:37:05 | [INFO]    | Shard 0 : Received READY
+2020-10-02 15:38:20 | [INFO]    | Discordia 2.8.4
+2020-10-02 15:38:20 | [INFO]    | Connecting to Discord...
+2020-10-02 15:38:20 | [INFO]    | Authenticated as LidBot#9617
+2020-10-02 15:38:20 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-02 15:38:21 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-02 15:38:21 | [INFO]    | Shard 0 : Received HELLO
+2020-10-02 15:38:21 | [INFO]    | Shard 0 : Received READY
+2020-10-02 15:40:55 | [INFO]    | Discordia 2.8.4
+2020-10-02 15:40:55 | [INFO]    | Connecting to Discord...
+2020-10-02 15:40:56 | [INFO]    | Authenticated as LidBot#9617
+2020-10-02 15:40:56 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-02 15:40:56 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-02 15:40:56 | [INFO]    | Shard 0 : Received HELLO
+2020-10-02 15:40:56 | [INFO]    | Shard 0 : Received READY
+2020-10-02 15:50:19 | [INFO]    | Discordia 2.8.4
+2020-10-02 15:50:19 | [INFO]    | Connecting to Discord...
+2020-10-02 15:50:19 | [INFO]    | Authenticated as LidBot#9617
+2020-10-02 15:50:19 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-02 15:50:19 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-02 15:50:19 | [INFO]    | Shard 0 : Received HELLO
+2020-10-02 15:50:19 | [INFO]    | Shard 0 : Received READY
+2020-10-02 15:50:53 | [INFO]    | Discordia 2.8.4
+2020-10-02 15:50:53 | [INFO]    | Connecting to Discord...
+2020-10-02 15:50:53 | [INFO]    | Authenticated as LidBot#9617
+2020-10-02 15:50:53 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-02 15:50:53 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-02 15:50:53 | [INFO]    | Shard 0 : Received HELLO
+2020-10-02 15:50:53 | [INFO]    | Shard 0 : Received READY
+2020-10-02 15:51:27 | [INFO]    | Discordia 2.8.4
+2020-10-02 15:51:27 | [INFO]    | Connecting to Discord...
+2020-10-02 15:51:27 | [INFO]    | Authenticated as LidBot#9617
+2020-10-02 15:51:27 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-02 15:51:27 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-02 15:51:27 | [INFO]    | Shard 0 : Received HELLO
+2020-10-02 15:51:27 | [INFO]    | Shard 0 : Received READY
+2020-10-02 15:52:16 | [INFO]    | Discordia 2.8.4
+2020-10-02 15:52:16 | [INFO]    | Connecting to Discord...
+2020-10-02 15:52:16 | [INFO]    | Authenticated as LidBot#9617
+2020-10-02 15:52:16 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-02 15:52:16 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-02 15:52:16 | [INFO]    | Shard 0 : Received HELLO
+2020-10-02 15:52:16 | [INFO]    | Shard 0 : Received READY
+2020-10-02 15:53:12 | [INFO]    | Discordia 2.8.4
+2020-10-02 15:53:12 | [INFO]    | Connecting to Discord...
+2020-10-02 15:53:12 | [INFO]    | Authenticated as LidBot#9617
+2020-10-02 15:53:12 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-02 15:53:13 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-02 15:53:13 | [INFO]    | Shard 0 : Received HELLO
+2020-10-02 15:53:13 | [INFO]    | Shard 0 : Received READY
+2020-10-02 15:53:48 | [INFO]    | Discordia 2.8.4
+2020-10-02 15:53:48 | [INFO]    | Connecting to Discord...
+2020-10-02 15:53:48 | [INFO]    | Authenticated as LidBot#9617
+2020-10-02 15:53:48 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-02 15:53:48 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-02 15:53:48 | [INFO]    | Shard 0 : Received HELLO
+2020-10-02 15:53:48 | [INFO]    | Shard 0 : Received READY
+2020-10-02 16:02:49 | [INFO]    | Discordia 2.8.4
+2020-10-02 16:02:49 | [INFO]    | Connecting to Discord...
+2020-10-02 16:02:50 | [INFO]    | Authenticated as LidBot#9617
+2020-10-02 16:02:50 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-02 16:02:50 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-02 16:02:50 | [INFO]    | Shard 0 : Received HELLO
+2020-10-02 16:02:50 | [INFO]    | Shard 0 : Received READY
+2020-10-02 16:03:32 | [INFO]    | Discordia 2.8.4
+2020-10-02 16:03:32 | [INFO]    | Connecting to Discord...
+2020-10-02 16:03:33 | [INFO]    | Authenticated as LidBot#9617
+2020-10-02 16:03:33 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-02 16:03:33 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-02 16:03:33 | [INFO]    | Shard 0 : Received HELLO
+2020-10-02 16:03:33 | [INFO]    | Shard 0 : Received READY
+2020-10-02 16:03:52 | [INFO]    | Discordia 2.8.4
+2020-10-02 16:03:52 | [INFO]    | Connecting to Discord...
+2020-10-02 16:03:52 | [INFO]    | Authenticated as LidBot#9617
+2020-10-02 16:03:52 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-02 16:03:52 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-02 16:03:52 | [INFO]    | Shard 0 : Received HELLO
+2020-10-02 16:03:53 | [INFO]    | Shard 0 : Received READY
+2020-10-02 16:06:27 | [INFO]    | Discordia 2.8.4
+2020-10-02 16:06:27 | [INFO]    | Connecting to Discord...
+2020-10-02 16:06:27 | [INFO]    | Authenticated as LidBot#9617
+2020-10-02 16:06:27 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-02 16:06:27 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-02 16:06:27 | [INFO]    | Shard 0 : Received HELLO
+2020-10-02 16:06:28 | [INFO]    | Shard 0 : Received READY
+2020-10-02 16:08:21 | [INFO]    | Discordia 2.8.4
+2020-10-02 16:08:21 | [INFO]    | Connecting to Discord...
+2020-10-02 16:08:21 | [INFO]    | Authenticated as LidBot#9617
+2020-10-02 16:08:21 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-02 16:08:22 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-02 16:08:22 | [INFO]    | Shard 0 : Received HELLO
+2020-10-02 16:08:22 | [INFO]    | Shard 0 : Received READY
+2020-10-02 16:13:10 | [INFO]    | Discordia 2.8.4
+2020-10-02 16:13:10 | [INFO]    | Connecting to Discord...
+2020-10-02 16:13:10 | [INFO]    | Authenticated as LidBot#9617
+2020-10-02 16:13:10 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-02 16:13:10 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-02 16:13:10 | [INFO]    | Shard 0 : Received HELLO
+2020-10-02 16:13:10 | [INFO]    | Shard 0 : Received READY
+2020-10-02 16:14:00 | [INFO]    | Discordia 2.8.4
+2020-10-02 16:14:00 | [INFO]    | Connecting to Discord...
+2020-10-02 16:14:01 | [INFO]    | Authenticated as LidBot#9617
+2020-10-02 16:14:01 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-02 16:14:01 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-02 16:14:01 | [INFO]    | Shard 0 : Received HELLO
+2020-10-02 16:14:01 | [INFO]    | Shard 0 : Received READY
+2020-10-02 16:14:44 | [INFO]    | Discordia 2.8.4
+2020-10-02 16:14:44 | [INFO]    | Connecting to Discord...
+2020-10-02 16:14:44 | [INFO]    | Authenticated as LidBot#9617
+2020-10-02 16:14:44 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-02 16:14:44 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-02 16:14:44 | [INFO]    | Shard 0 : Received HELLO
+2020-10-02 16:14:45 | [INFO]    | Shard 0 : Received READY
+2020-10-02 16:15:40 | [INFO]    | Discordia 2.8.4
+2020-10-02 16:15:40 | [INFO]    | Connecting to Discord...
+2020-10-02 16:15:40 | [INFO]    | Authenticated as LidBot#9617
+2020-10-02 16:15:40 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-02 16:15:40 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-02 16:15:40 | [INFO]    | Shard 0 : Received HELLO
+2020-10-02 16:15:41 | [INFO]    | Shard 0 : Received READY
+2020-10-02 16:16:13 | [INFO]    | Discordia 2.8.4
+2020-10-02 16:16:13 | [INFO]    | Connecting to Discord...
+2020-10-02 16:16:13 | [INFO]    | Authenticated as LidBot#9617
+2020-10-02 16:16:13 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-02 16:16:13 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-02 16:16:13 | [INFO]    | Shard 0 : Received HELLO
+2020-10-02 16:16:13 | [INFO]    | Shard 0 : Received READY
+2020-10-02 16:17:35 | [INFO]    | Discordia 2.8.4
+2020-10-02 16:17:35 | [INFO]    | Connecting to Discord...
+2020-10-02 16:17:36 | [INFO]    | Authenticated as LidBot#9617
+2020-10-02 16:17:36 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-02 16:17:36 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-02 16:17:36 | [INFO]    | Shard 0 : Received HELLO
+2020-10-02 16:17:36 | [INFO]    | Shard 0 : Received READY
+2020-10-02 16:18:26 | [INFO]    | Discordia 2.8.4
+2020-10-02 16:18:26 | [INFO]    | Connecting to Discord...
+2020-10-02 16:18:27 | [INFO]    | Authenticated as LidBot#9617
+2020-10-02 16:18:27 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-02 16:18:27 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-02 16:18:27 | [INFO]    | Shard 0 : Received HELLO
+2020-10-02 16:18:27 | [INFO]    | Shard 0 : Received READY
+2020-10-02 16:19:11 | [INFO]    | Discordia 2.8.4
+2020-10-02 16:19:11 | [INFO]    | Connecting to Discord...
+2020-10-02 16:19:12 | [INFO]    | Authenticated as LidBot#9617
+2020-10-02 16:19:12 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-02 16:19:12 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-02 16:19:12 | [INFO]    | Shard 0 : Received HELLO
+2020-10-02 16:19:12 | [INFO]    | Shard 0 : Received READY
+2020-10-02 16:19:41 | [INFO]    | Discordia 2.8.4
+2020-10-02 16:19:41 | [INFO]    | Connecting to Discord...
+2020-10-02 16:19:41 | [INFO]    | Authenticated as LidBot#9617
+2020-10-02 16:19:41 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-02 16:19:41 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-02 16:19:41 | [INFO]    | Shard 0 : Received HELLO
+2020-10-02 16:19:41 | [INFO]    | Shard 0 : Received READY
+2020-10-02 16:20:45 | [INFO]    | Discordia 2.8.4
+2020-10-02 16:20:45 | [INFO]    | Connecting to Discord...
+2020-10-02 16:20:45 | [INFO]    | Authenticated as LidBot#9617
+2020-10-02 16:20:45 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-02 16:20:45 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-02 16:20:45 | [INFO]    | Shard 0 : Received HELLO
+2020-10-02 16:20:46 | [INFO]    | Shard 0 : Received READY
+2020-10-02 16:21:51 | [INFO]    | Discordia 2.8.4
+2020-10-02 16:21:51 | [INFO]    | Connecting to Discord...
+2020-10-02 16:21:51 | [INFO]    | Authenticated as LidBot#9617
+2020-10-02 16:21:51 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-02 16:21:52 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-02 16:21:52 | [INFO]    | Shard 0 : Received HELLO
+2020-10-02 16:21:52 | [INFO]    | Shard 0 : Received READY
+2020-10-02 16:22:31 | [INFO]    | Discordia 2.8.4
+2020-10-02 16:22:31 | [INFO]    | Connecting to Discord...
+2020-10-02 16:22:31 | [INFO]    | Authenticated as LidBot#9617
+2020-10-02 16:22:31 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-02 16:22:31 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-02 16:22:31 | [INFO]    | Shard 0 : Received HELLO
+2020-10-02 16:22:32 | [INFO]    | Shard 0 : Received READY
+2020-10-02 16:23:13 | [INFO]    | Discordia 2.8.4
+2020-10-02 16:23:13 | [INFO]    | Connecting to Discord...
+2020-10-02 16:23:13 | [INFO]    | Authenticated as LidBot#9617
+2020-10-02 16:23:13 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-02 16:23:13 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-02 16:23:13 | [INFO]    | Shard 0 : Received HELLO
+2020-10-02 16:23:14 | [INFO]    | Shard 0 : Received READY
+2020-10-02 16:24:58 | [INFO]    | Discordia 2.8.4
+2020-10-02 16:24:58 | [INFO]    | Connecting to Discord...
+2020-10-02 16:24:58 | [INFO]    | Authenticated as LidBot#9617
+2020-10-02 16:24:58 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-02 16:24:58 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-02 16:24:58 | [INFO]    | Shard 0 : Received HELLO
+2020-10-02 16:24:58 | [INFO]    | Shard 0 : Received READY
+2020-10-02 16:25:15 | [INFO]    | Discordia 2.8.4
+2020-10-02 16:25:15 | [INFO]    | Connecting to Discord...
+2020-10-02 16:25:15 | [INFO]    | Authenticated as LidBot#9617
+2020-10-02 16:25:15 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-02 16:25:15 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-02 16:25:15 | [INFO]    | Shard 0 : Received HELLO
+2020-10-02 16:25:15 | [INFO]    | Shard 0 : Received READY
+2020-10-02 16:26:18 | [INFO]    | Discordia 2.8.4
+2020-10-02 16:26:18 | [INFO]    | Connecting to Discord...
+2020-10-02 16:26:19 | [INFO]    | Authenticated as LidBot#9617
+2020-10-02 16:26:19 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-02 16:26:19 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-02 16:26:19 | [INFO]    | Shard 0 : Received HELLO
+2020-10-02 16:26:19 | [INFO]    | Shard 0 : Received READY
+2020-10-03 16:57:43 | [INFO]    | Discordia 2.8.4
+2020-10-03 16:57:43 | [INFO]    | Connecting to Discord...
+2020-10-03 16:57:43 | [INFO]    | Authenticated as LidBot#9617
+2020-10-03 16:57:44 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-03 16:57:44 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-03 16:57:44 | [INFO]    | Shard 0 : Received HELLO
+2020-10-03 16:57:44 | [INFO]    | Shard 0 : Received READY
+2020-10-04 16:16:51 | [INFO]    | Discordia 2.8.4
+2020-10-04 16:16:51 | [INFO]    | Connecting to Discord...
+2020-10-04 16:16:51 | [INFO]    | Authenticated as LidBot#9617
+2020-10-04 16:16:51 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-04 16:16:52 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-04 16:16:52 | [INFO]    | Shard 0 : Received HELLO
+2020-10-04 16:16:52 | [INFO]    | Shard 0 : Received READY
+2020-10-04 16:17:35 | [INFO]    | Discordia 2.8.4
+2020-10-04 16:17:35 | [INFO]    | Connecting to Discord...
+2020-10-04 16:17:35 | [INFO]    | Authenticated as LidBot#9617
+2020-10-04 16:17:35 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-04 16:17:35 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-04 16:17:35 | [INFO]    | Shard 0 : Received HELLO
+2020-10-04 16:17:35 | [INFO]    | Shard 0 : Received READY
+2020-10-04 16:18:01 | [INFO]    | Discordia 2.8.4
+2020-10-04 16:18:01 | [INFO]    | Connecting to Discord...
+2020-10-04 16:18:01 | [INFO]    | Authenticated as LidBot#9617
+2020-10-04 16:18:01 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-04 16:18:01 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-04 16:18:01 | [INFO]    | Shard 0 : Received HELLO
+2020-10-04 16:18:02 | [INFO]    | Shard 0 : Received READY
+2020-10-04 16:19:06 | [INFO]    | Discordia 2.8.4
+2020-10-04 16:19:06 | [INFO]    | Connecting to Discord...
+2020-10-04 16:19:06 | [INFO]    | Authenticated as LidBot#9617
+2020-10-04 16:19:06 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-04 16:19:06 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-04 16:19:06 | [INFO]    | Shard 0 : Received HELLO
+2020-10-04 16:19:07 | [INFO]    | Shard 0 : Received READY
+2020-10-04 16:20:18 | [INFO]    | Discordia 2.8.4
+2020-10-04 16:20:18 | [INFO]    | Connecting to Discord...
+2020-10-04 16:20:18 | [INFO]    | Authenticated as LidBot#9617
+2020-10-04 16:20:18 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-04 16:20:18 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-04 16:20:18 | [INFO]    | Shard 0 : Received HELLO
+2020-10-04 16:20:18 | [INFO]    | Shard 0 : Received READY
+2020-10-04 16:22:31 | [INFO]    | Discordia 2.8.4
+2020-10-04 16:22:31 | [INFO]    | Connecting to Discord...
+2020-10-04 16:22:31 | [INFO]    | Authenticated as LidBot#9617
+2020-10-04 16:22:31 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-04 16:22:31 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-04 16:22:31 | [INFO]    | Shard 0 : Received HELLO
+2020-10-04 16:22:32 | [INFO]    | Shard 0 : Received READY
+2020-10-04 16:24:15 | [INFO]    | Discordia 2.8.4
+2020-10-04 16:24:15 | [INFO]    | Connecting to Discord...
+2020-10-04 16:24:15 | [INFO]    | Authenticated as LidBot#9617
+2020-10-04 16:24:15 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-04 16:24:15 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-04 16:24:15 | [INFO]    | Shard 0 : Received HELLO
+2020-10-04 16:24:15 | [INFO]    | Shard 0 : Received READY
+2020-10-04 16:24:55 | [INFO]    | Discordia 2.8.4
+2020-10-04 16:24:55 | [INFO]    | Connecting to Discord...
+2020-10-04 16:24:55 | [INFO]    | Authenticated as LidBot#9617
+2020-10-04 16:24:55 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-04 16:24:55 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-04 16:24:55 | [INFO]    | Shard 0 : Received HELLO
+2020-10-04 16:24:55 | [INFO]    | Shard 0 : Received READY
+2020-10-04 16:25:33 | [INFO]    | Discordia 2.8.4
+2020-10-04 16:25:33 | [INFO]    | Connecting to Discord...
+2020-10-04 16:25:33 | [INFO]    | Authenticated as LidBot#9617
+2020-10-04 16:25:33 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-04 16:25:33 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-04 16:25:33 | [INFO]    | Shard 0 : Received HELLO
+2020-10-04 16:25:33 | [INFO]    | Shard 0 : Received READY
+2020-10-04 16:26:12 | [INFO]    | Discordia 2.8.4
+2020-10-04 16:26:12 | [INFO]    | Connecting to Discord...
+2020-10-04 16:26:12 | [INFO]    | Authenticated as LidBot#9617
+2020-10-04 16:26:12 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-04 16:26:12 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-04 16:26:12 | [INFO]    | Shard 0 : Received HELLO
+2020-10-04 16:26:12 | [INFO]    | Shard 0 : Received READY
+2020-10-04 16:26:37 | [INFO]    | Discordia 2.8.4
+2020-10-04 16:26:37 | [INFO]    | Connecting to Discord...
+2020-10-04 16:26:37 | [INFO]    | Authenticated as LidBot#9617
+2020-10-04 16:26:37 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-04 16:26:38 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-04 16:26:38 | [INFO]    | Shard 0 : Received HELLO
+2020-10-04 16:26:38 | [INFO]    | Shard 0 : Received READY
+2020-10-04 16:27:01 | [INFO]    | Discordia 2.8.4
+2020-10-04 16:27:01 | [INFO]    | Connecting to Discord...
+2020-10-04 16:27:01 | [INFO]    | Authenticated as LidBot#9617
+2020-10-04 16:27:01 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-04 16:27:02 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-04 16:27:02 | [INFO]    | Shard 0 : Received HELLO
+2020-10-04 16:27:02 | [INFO]    | Shard 0 : Received READY
+2020-10-04 16:31:08 | [INFO]    | Discordia 2.8.4
+2020-10-04 16:31:08 | [INFO]    | Connecting to Discord...
+2020-10-04 16:31:08 | [INFO]    | Authenticated as LidBot#9617
+2020-10-04 16:31:08 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-04 16:31:08 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-04 16:31:08 | [INFO]    | Shard 0 : Received HELLO
+2020-10-04 16:31:08 | [INFO]    | Shard 0 : Received READY
+2020-10-04 16:33:28 | [INFO]    | Discordia 2.8.4
+2020-10-04 16:33:28 | [INFO]    | Connecting to Discord...
+2020-10-04 16:33:28 | [INFO]    | Authenticated as LidBot#9617
+2020-10-04 16:33:28 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-04 16:33:28 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-04 16:33:28 | [INFO]    | Shard 0 : Received HELLO
+2020-10-04 16:33:28 | [INFO]    | Shard 0 : Received READY
+2020-10-04 16:34:08 | [INFO]    | Discordia 2.8.4
+2020-10-04 16:34:08 | [INFO]    | Connecting to Discord...
+2020-10-04 16:34:08 | [INFO]    | Authenticated as LidBot#9617
+2020-10-04 16:34:08 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-04 16:34:08 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-04 16:34:08 | [INFO]    | Shard 0 : Received HELLO
+2020-10-04 16:34:09 | [INFO]    | Shard 0 : Received READY
+2020-10-04 16:37:14 | [INFO]    | Discordia 2.8.4
+2020-10-04 16:37:14 | [INFO]    | Connecting to Discord...
+2020-10-04 16:37:14 | [INFO]    | Authenticated as LidBot#9617
+2020-10-04 16:37:14 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-04 16:37:14 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-04 16:37:14 | [INFO]    | Shard 0 : Received HELLO
+2020-10-04 16:37:14 | [INFO]    | Shard 0 : Received READY
+2020-10-04 16:38:46 | [INFO]    | Discordia 2.8.4
+2020-10-04 16:38:46 | [INFO]    | Connecting to Discord...
+2020-10-04 16:38:46 | [INFO]    | Authenticated as LidBot#9617
+2020-10-04 16:38:46 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-04 16:38:46 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-04 16:38:46 | [INFO]    | Shard 0 : Received HELLO
+2020-10-04 16:38:46 | [INFO]    | Shard 0 : Received READY
+2020-10-04 16:41:56 | [INFO]    | Discordia 2.8.4
+2020-10-04 16:41:56 | [INFO]    | Connecting to Discord...
+2020-10-04 16:41:56 | [INFO]    | Authenticated as LidBot#9617
+2020-10-04 16:41:56 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-04 16:41:56 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-04 16:41:56 | [INFO]    | Shard 0 : Received HELLO
+2020-10-04 16:41:57 | [INFO]    | Shard 0 : Received READY
+2020-10-04 16:42:32 | [INFO]    | Discordia 2.8.4
+2020-10-04 16:42:32 | [INFO]    | Connecting to Discord...
+2020-10-04 16:42:32 | [INFO]    | Authenticated as LidBot#9617
+2020-10-04 16:42:32 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-04 16:42:32 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-04 16:42:32 | [INFO]    | Shard 0 : Received HELLO
+2020-10-04 16:42:32 | [INFO]    | Shard 0 : Received READY
+2020-10-04 16:44:40 | [INFO]    | Discordia 2.8.4
+2020-10-04 16:44:40 | [INFO]    | Connecting to Discord...
+2020-10-04 16:44:40 | [INFO]    | Authenticated as LidBot#9617
+2020-10-04 16:44:40 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-04 16:44:40 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-04 16:44:40 | [INFO]    | Shard 0 : Received HELLO
+2020-10-04 16:44:40 | [INFO]    | Shard 0 : Received READY
+2020-10-04 16:45:58 | [INFO]    | Discordia 2.8.4
+2020-10-04 16:45:58 | [INFO]    | Connecting to Discord...
+2020-10-04 16:45:58 | [INFO]    | Authenticated as LidBot#9617
+2020-10-04 16:45:58 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-04 16:45:58 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-04 16:45:58 | [INFO]    | Shard 0 : Received HELLO
+2020-10-04 16:45:58 | [INFO]    | Shard 0 : Received READY
+2020-10-04 16:46:39 | [INFO]    | Discordia 2.8.4
+2020-10-04 16:46:39 | [INFO]    | Connecting to Discord...
+2020-10-04 16:46:39 | [INFO]    | Authenticated as LidBot#9617
+2020-10-04 16:46:39 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-04 16:46:39 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-04 16:46:39 | [INFO]    | Shard 0 : Received HELLO
+2020-10-04 16:46:40 | [INFO]    | Shard 0 : Received READY
+2020-10-04 16:48:04 | [INFO]    | Discordia 2.8.4
+2020-10-04 16:48:04 | [INFO]    | Connecting to Discord...
+2020-10-04 16:48:04 | [INFO]    | Authenticated as LidBot#9617
+2020-10-04 16:48:04 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-04 16:48:04 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-04 16:48:04 | [INFO]    | Shard 0 : Received HELLO
+2020-10-04 16:48:04 | [INFO]    | Shard 0 : Received READY
+2020-10-04 16:48:32 | [INFO]    | Discordia 2.8.4
+2020-10-04 16:48:32 | [INFO]    | Connecting to Discord...
+2020-10-04 16:48:32 | [INFO]    | Authenticated as LidBot#9617
+2020-10-04 16:48:32 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-04 16:48:33 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-04 16:48:33 | [INFO]    | Shard 0 : Received HELLO
+2020-10-04 16:48:33 | [INFO]    | Shard 0 : Received READY
+2020-10-04 16:49:24 | [INFO]    | Discordia 2.8.4
+2020-10-04 16:49:24 | [INFO]    | Connecting to Discord...
+2020-10-04 16:49:25 | [INFO]    | Authenticated as LidBot#9617
+2020-10-04 16:49:25 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-04 16:49:25 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-04 16:49:25 | [INFO]    | Shard 0 : Received HELLO
+2020-10-04 16:49:25 | [INFO]    | Shard 0 : Received READY
+2020-10-04 16:50:09 | [INFO]    | Discordia 2.8.4
+2020-10-04 16:50:09 | [INFO]    | Connecting to Discord...
+2020-10-04 16:50:09 | [INFO]    | Authenticated as LidBot#9617
+2020-10-04 16:50:09 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-04 16:50:10 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-04 16:50:10 | [INFO]    | Shard 0 : Received HELLO
+2020-10-04 16:50:10 | [INFO]    | Shard 0 : Received READY
+2020-10-04 16:50:29 | [INFO]    | Discordia 2.8.4
+2020-10-04 16:50:29 | [INFO]    | Connecting to Discord...
+2020-10-04 16:50:29 | [INFO]    | Authenticated as LidBot#9617
+2020-10-04 16:50:29 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-04 16:50:29 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-04 16:50:29 | [INFO]    | Shard 0 : Received HELLO
+2020-10-04 16:50:29 | [INFO]    | Shard 0 : Received READY
+2020-10-04 17:09:45 | [INFO]    | Discordia 2.8.4
+2020-10-04 17:09:45 | [INFO]    | Connecting to Discord...
+2020-10-04 17:09:45 | [INFO]    | Authenticated as LidBot#9617
+2020-10-04 17:09:45 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-04 17:09:45 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-04 17:09:45 | [INFO]    | Shard 0 : Received HELLO
+2020-10-04 17:09:46 | [INFO]    | Shard 0 : Received READY
+2020-10-04 17:09:51 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/channels/729753143604412509/messages
+2020-10-04 17:11:07 | [INFO]    | Discordia 2.8.4
+2020-10-04 17:11:07 | [INFO]    | Connecting to Discord...
+2020-10-04 17:11:07 | [INFO]    | Authenticated as LidBot#9617
+2020-10-04 17:11:07 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-04 17:11:07 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-04 17:11:07 | [INFO]    | Shard 0 : Received HELLO
+2020-10-04 17:11:07 | [INFO]    | Shard 0 : Received READY
+2020-10-04 17:13:41 | [INFO]    | Discordia 2.8.4
+2020-10-04 17:13:41 | [INFO]    | Connecting to Discord...
+2020-10-04 17:13:41 | [INFO]    | Authenticated as LidBot#9617
+2020-10-04 17:13:41 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-04 17:13:41 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-04 17:13:41 | [INFO]    | Shard 0 : Received HELLO
+2020-10-04 17:13:41 | [INFO]    | Shard 0 : Received READY
+2020-10-04 17:14:26 | [INFO]    | Discordia 2.8.4
+2020-10-04 17:14:26 | [INFO]    | Connecting to Discord...
+2020-10-04 17:14:26 | [INFO]    | Authenticated as LidBot#9617
+2020-10-04 17:14:26 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-04 17:14:27 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-04 17:14:27 | [INFO]    | Shard 0 : Received HELLO
+2020-10-04 17:14:27 | [INFO]    | Shard 0 : Received READY
+2020-10-04 17:15:06 | [INFO]    | Discordia 2.8.4
+2020-10-04 17:15:06 | [INFO]    | Connecting to Discord...
+2020-10-04 17:15:06 | [INFO]    | Authenticated as LidBot#9617
+2020-10-04 17:15:06 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-04 17:15:06 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-04 17:15:06 | [INFO]    | Shard 0 : Received HELLO
+2020-10-04 17:15:06 | [INFO]    | Shard 0 : Received READY
+2020-10-04 17:16:28 | [INFO]    | Discordia 2.8.4
+2020-10-04 17:16:28 | [INFO]    | Connecting to Discord...
+2020-10-04 17:16:28 | [INFO]    | Authenticated as LidBot#9617
+2020-10-04 17:16:28 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-04 17:16:28 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-04 17:16:28 | [INFO]    | Shard 0 : Received HELLO
+2020-10-04 17:16:28 | [INFO]    | Shard 0 : Received READY
+2020-10-04 17:17:15 | [INFO]    | Discordia 2.8.4
+2020-10-04 17:17:15 | [INFO]    | Connecting to Discord...
+2020-10-04 17:17:16 | [INFO]    | Authenticated as LidBot#9617
+2020-10-04 17:17:16 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-04 17:17:16 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-04 17:17:16 | [INFO]    | Shard 0 : Received HELLO
+2020-10-04 17:17:16 | [INFO]    | Shard 0 : Received READY
+2020-10-04 17:17:44 | [INFO]    | Discordia 2.8.4
+2020-10-04 17:17:44 | [INFO]    | Connecting to Discord...
+2020-10-04 17:17:45 | [INFO]    | Authenticated as LidBot#9617
+2020-10-04 17:17:45 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-04 17:17:45 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-04 17:17:45 | [INFO]    | Shard 0 : Received HELLO
+2020-10-04 17:17:45 | [INFO]    | Shard 0 : Received READY
+2020-10-04 17:18:36 | [INFO]    | Discordia 2.8.4
+2020-10-04 17:18:36 | [INFO]    | Connecting to Discord...
+2020-10-04 17:18:36 | [INFO]    | Authenticated as LidBot#9617
+2020-10-04 17:18:36 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-04 17:18:36 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-04 17:18:36 | [INFO]    | Shard 0 : Received HELLO
+2020-10-04 17:18:36 | [INFO]    | Shard 0 : Received READY
+2020-10-04 17:21:05 | [INFO]    | Discordia 2.8.4
+2020-10-04 17:21:05 | [INFO]    | Connecting to Discord...
+2020-10-04 17:21:05 | [INFO]    | Authenticated as LidBot#9617
+2020-10-04 17:21:05 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-04 17:21:05 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-04 17:21:05 | [INFO]    | Shard 0 : Received HELLO
+2020-10-04 17:21:05 | [INFO]    | Shard 0 : Received READY
+2020-10-04 17:21:36 | [INFO]    | Discordia 2.8.4
+2020-10-04 17:21:36 | [INFO]    | Connecting to Discord...
+2020-10-04 17:21:36 | [INFO]    | Authenticated as LidBot#9617
+2020-10-04 17:21:36 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-04 17:21:36 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-04 17:21:36 | [INFO]    | Shard 0 : Received HELLO
+2020-10-04 17:21:37 | [INFO]    | Shard 0 : Received READY
+2020-10-04 17:22:14 | [INFO]    | Discordia 2.8.4
+2020-10-04 17:22:14 | [INFO]    | Connecting to Discord...
+2020-10-04 17:22:14 | [INFO]    | Authenticated as LidBot#9617
+2020-10-04 17:22:14 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-04 17:22:14 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-04 17:22:14 | [INFO]    | Shard 0 : Received HELLO
+2020-10-04 17:22:15 | [INFO]    | Shard 0 : Received READY
+2020-10-04 17:22:35 | [INFO]    | Discordia 2.8.4
+2020-10-04 17:22:35 | [INFO]    | Connecting to Discord...
+2020-10-04 17:22:36 | [INFO]    | Authenticated as LidBot#9617
+2020-10-04 17:22:36 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-04 17:22:36 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-04 17:22:36 | [INFO]    | Shard 0 : Received HELLO
+2020-10-04 17:22:36 | [INFO]    | Shard 0 : Received READY
+2020-10-04 17:23:01 | [INFO]    | Discordia 2.8.4
+2020-10-04 17:23:01 | [INFO]    | Connecting to Discord...
+2020-10-04 17:23:02 | [INFO]    | Authenticated as LidBot#9617
+2020-10-04 17:23:02 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-04 17:23:02 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-04 17:23:02 | [INFO]    | Shard 0 : Received HELLO
+2020-10-04 17:23:02 | [INFO]    | Shard 0 : Received READY
+2020-10-04 17:23:19 | [INFO]    | Discordia 2.8.4
+2020-10-04 17:23:19 | [INFO]    | Connecting to Discord...
+2020-10-04 17:23:20 | [INFO]    | Authenticated as LidBot#9617
+2020-10-04 17:23:20 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-04 17:23:20 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-04 17:23:20 | [INFO]    | Shard 0 : Received HELLO
+2020-10-04 17:23:20 | [INFO]    | Shard 0 : Received READY
+2020-10-04 17:26:12 | [INFO]    | Discordia 2.8.4
+2020-10-04 17:26:12 | [INFO]    | Connecting to Discord...
+2020-10-04 17:26:12 | [INFO]    | Authenticated as LidBot#9617
+2020-10-04 17:26:12 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-04 17:26:12 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-04 17:26:12 | [INFO]    | Shard 0 : Received HELLO
+2020-10-04 17:26:13 | [INFO]    | Shard 0 : Received READY
+2020-10-04 17:26:35 | [INFO]    | Discordia 2.8.4
+2020-10-04 17:26:35 | [INFO]    | Connecting to Discord...
+2020-10-04 17:26:36 | [INFO]    | Authenticated as LidBot#9617
+2020-10-04 17:26:36 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-04 17:26:36 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-04 17:26:36 | [INFO]    | Shard 0 : Received HELLO
+2020-10-04 17:26:36 | [INFO]    | Shard 0 : Received READY
+2020-10-04 17:28:55 | [INFO]    | Discordia 2.8.4
+2020-10-04 17:28:55 | [INFO]    | Connecting to Discord...
+2020-10-04 17:28:55 | [INFO]    | Authenticated as LidBot#9617
+2020-10-04 17:28:55 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-10-04 17:28:55 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-10-04 17:28:55 | [INFO]    | Shard 0 : Received HELLO
+2020-10-04 17:28:55 | [INFO]    | Shard 0 : Received READY
